@@ -2,7 +2,7 @@ import java.util.*;
 public class Area2 {
 	public void cuboid(float l,float b,float h) {
 		
-		System.out.println(l*b*h);
+		System.out.println(l*b*h);  //my code
 		
 	}
     public static void main(String args[]) {
